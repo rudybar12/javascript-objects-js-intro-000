@@ -1,1 +1,1 @@
-var music = {songs: 'playlist'}
+var music = new object(playlist);
