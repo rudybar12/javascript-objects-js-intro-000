@@ -1,1 +1,1 @@
-var music = {playlist: playlist}
+var music = {songs: 'playlist'}
